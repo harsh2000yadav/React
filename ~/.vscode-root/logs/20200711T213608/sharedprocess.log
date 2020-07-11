@@ -1,0 +1,3 @@
+[2020-07-11 21:36:11.772] [sharedprocess] [info] main {"machineId":"8f9a2457c5b27674a79bb56f6a04f6db9c7897e63e33c18452db611c8fba97db","windowId":2}
+[2020-07-11 21:36:11.812] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/stark/Desktop/Coding/WebD/React/~/.vscode-root/User/snippets'
+[2020-07-11 21:36:51.791] [sharedprocess] [info] Starting to clean up unused language packs.
