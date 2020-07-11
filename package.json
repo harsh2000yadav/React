@@ -1,0 +1,21 @@
+{
+  "name": "practice1",
+  "version": "1.0.0",
+  "description": "Practice ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite" : "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubey22rohit/React.git"
+  },
+  "author": "Rohit Dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubey22rohit/React/issues"
+  },
+  "homepage": "https://github.com/dubey22rohit/React#readme"
+}
