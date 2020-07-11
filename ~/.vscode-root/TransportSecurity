@@ -4,5 +4,11 @@
       "mode": "force-https",
       "sts_include_subdomains": false,
       "sts_observed": 1594483598.642332
+   },
+   "bvX4PpTCW5oYCQv3FySIixdkmM+paN/l+o4e/8K1m3o=": {
+      "expiry": 1626019753.809005,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1594483753.80901
    }
 }
